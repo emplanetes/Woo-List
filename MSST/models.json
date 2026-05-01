@@ -769,6 +769,17 @@
       "save_as": "dereverb_mel_band_roformer_anvuew_sdr_19.1729.ckpt"
     }
   },
+  "DE-REVERB-BS-Roformer dereverb_Stereo_2602 (by anvuew)": {
+    "model_type": "bs_roformer",
+    "config": {
+      "url": "https://huggingface.co/anvuew/dereverb_bs_roformer/resolve/main/config.yaml",
+      "save_as": "config.yaml"
+    },
+    "checkpoint": {
+      "url": "https://huggingface.co/anvuew/dereverb_bs_roformer/resolve/main/dereverb_bs_roformer_anvuew_sdr_22.5050.ckpt",
+      "save_as": "dereverb_bs_roformer_anvuew_sdr_22.5050.ckpt"
+    }
+  },
   "DE-REVERB-BS-Roformer dereverb_room mono (by anvuew)": {
     "model_type": "bs_roformer",
     "config": {
