@@ -17,7 +17,8 @@ A list repository tailored by the owner, where custom lists for various programs
 |:-------|:----:|-------:|
 | /CFIP/cfip_asia.txt  | Cloudflare Optimized IPs (Asia) | South China Mobile, Asia nodes |
 | /CFIP/cfip_nonasia.txt  | Cloudflare Optimized IPs (Non-Asia) | South China Mobile, non-Asia nodes |
-| /MSST/models.json  | UVR Models Additional | Used in Colab UVR |
+| /MSST/models.json  | MSST Models Additional | Used in Colab MSST (UVR) |
+| /So-vits-SVC/requirements.txt  | Sovits Inference Only, Removed Redundant Dependencies | Used in Colab Sovits (Inference Only) |
 
 </div>
 
